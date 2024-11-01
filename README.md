@@ -21,7 +21,10 @@ Clink here for link(https://www.kaggle.com/datasets/lakshmi25npathi/online-retai
 
 ## Data Cleaning, Transformation and Analysis
 
-All steps taken are documented in the file attached below
+All steps taken are documented below
+
+(https://github.com/chinedusylvanus/Customer_Segmentation_and_Sales_Forecasting/blob/main/Customer%20Segmentation%20and%20Sales%20Forecasting%20Project.ipynb)
+
 
 ## Conclusion/Recommendation
 
