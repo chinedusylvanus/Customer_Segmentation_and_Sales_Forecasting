@@ -25,6 +25,7 @@ All steps taken are documented below
 
 (https://github.com/chinedusylvanus/Customer_Segmentation_and_Sales_Forecasting/blob/main/Customer%20Segmentation%20and%20Sales%20Forecasting%20Project.ipynb)
 
+(Customer Segmentation and Sales Forecasting Project.md)
 
 ## Conclusion/Recommendation
 
